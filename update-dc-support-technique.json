@@ -1,7 +1,7 @@
 {
   "messages": [
     {
-      "update_version": "1.4.8",
+      "update_version": "1.5.0",
       "min_version": "1.4.2",  
       "message": "⚙️ Configuration requise après mise à jour<br>- Veuillez enregistrer les paramètres du plugin pour prendre en compte les 2 nouvelles cases à cocher ajoutées dans les options de configuration.<br>👉 Allez dans DC Plus > Dashboard pour configurer."
     }

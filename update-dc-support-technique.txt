@@ -1,3 +1,0 @@
-⚙️ Configuration requise après mise à jour
-Après cette mise à jour, veuillez enregistrer les paramètres du plugin pour prendre en compte les 2 nouvelles cases à cocher.
-👉 Allez dans DC Plus > Dashboard-Login.

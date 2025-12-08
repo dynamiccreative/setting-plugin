@@ -1,0 +1,9 @@
+{
+  "messages": [
+    {
+      "update_version": "2.1.0",
+      "min_version": "2.0.15",  
+      "message": "⚙️ Configuration requise après mise à jour<br>- Veuillez enregistrer les paramètres du plugin pour prendre en compte les nouvelles données."
+    }
+  ]
+}

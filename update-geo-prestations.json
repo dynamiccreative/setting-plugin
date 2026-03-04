@@ -3,7 +3,7 @@
     {
       "update_version": "2.3.5",
       "min_version": "2.3.0",  
-      "message": "⚙️ Attention version béta, à ne pas installer sauf si environnement de test<br>- Ajout GMBA (beta)<br>- Ajout option désactivation CRONS"
+      "message": "⚠️ Attention version béta, à ne pas installer sauf si environnement de test<br>- Ajout GMBA (beta)<br>- Ajout option désactivation CRONS"
     }
   ]
 }

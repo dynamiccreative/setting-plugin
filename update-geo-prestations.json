@@ -2,7 +2,7 @@
   "messages": [
     {
       "update_version": "3.1.0",
-      "min_version": "3.0.61",
+      "min_version": "1.0.0",
       "message": "⚠️ <strong>Version majeure 3.1.0</strong> : sécurité, fiabilité des générations, SEO autonome sans plugin SEO, descriptions des villes et quartiers, images en JPEG compressé.<br>- Faites une sauvegarde avant la mise à jour.<br>- Après la mise à jour : vérifiez Réglages → Images (format et compression) et le nouveau style du bloc « Ce qu'il faut retenir ».<br>- Les nouveautés sont récapitulées dans une notice en haut des écrans du plugin."
     }
   ]
